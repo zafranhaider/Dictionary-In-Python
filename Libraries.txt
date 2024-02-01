@@ -1,0 +1,5 @@
+install all of these
+PyDictionary
+tkinter
+speech recognition (VOice Input Works But Take Little Time So speak One Word)
+pip install --upgrade setuptools (Must upgrade This For Voice Recogination Compatblity)
