@@ -1,5 +1,10 @@
+In This AI Dictionary You Can 
+-Give Voice Input
+-Add
+-Delete
+-Update The Words And Discriptions
 ![lio](https://github.com/zafranhaider/Dictionary-In-Python/assets/113259072/1f2082b3-a259-44a1-b8bb-f811ef592868)
-install all of these
+install all of these LiBraries To edit Source Code Or Just Use The Build Version
 PyDictionary
 tkinter
 speech recognition (VOice Input Works But Take Little Time So speak One Word)
